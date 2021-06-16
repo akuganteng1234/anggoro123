@@ -1,5 +1,5 @@
 RENCANA KONTEN 123
 
--Membuat landing page 
--Membuat JSon 
--Belajar PHP
+-Membuat landing page -> boostrap complete 
+-Membuat JSon -> belajar jscript dasar 
+-Belajar PHP -> belajar database 
