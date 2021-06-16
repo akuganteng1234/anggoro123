@@ -4,5 +4,7 @@ RENCANA KONTEN 123
 -Membuat JSon -> belajar jscript dasar 
 -Belajar PHP -> belajar database 
 -Woylah
+-Tambahin jSRIPT VIEWWWWWWWWWWWWWWWWWWW
 - TAMBAHIN AULA!
 - KEPSEK APA?
+
