@@ -1,0 +1,5 @@
+RENCANA KONTEN 123
+
+-Membuat landing page 
+-Membuat JSon 
+-Belajar PHP
